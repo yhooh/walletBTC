@@ -7,7 +7,6 @@ Passwords for all of them are forgoten or lost.  With some luck and skills you m
 ### Wallets
 
 [wallet.dat with 150 BTC](https://github.com/mady2077/walletBTC/blob/master/wallet-150BTC.md)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 =======================================================
 
