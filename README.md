@@ -1,12 +1,15 @@
 ## Bitcoin wallet files walled.dat with BTC for sale
 
-We have number of **bitcoin** and other **coin** wallets for sale.
+We have number of **bitcoin** and other **coin** wallets for sale. 
 
 Passwords for all of them are forgoten or lost.  With some luck and skills you may recover lost password and would be able to access the coins.
 
 ### Wallets
 
 [wallet.dat with 150 BTC](https://github.com/mady2077/walletBTC/blob/master/wallet-150BTC.md)
+
+# <span style="color:red"> Huge wallets with 2000 and more Bitcoins </span>
+[Wallets with 2000+ coins](2kwallets.md)
 
 
 =======================================================
@@ -15,7 +18,7 @@ Passwords for all of them are forgoten or lost.  With some luck and skills you m
 
 address - **[1GthMXgwcHByL4ZNXVJn92ax6LN5RJYRK3](https://www.blockchain.com/btc/address/1GthMXgwcHByL4ZNXVJn92ax6LN5RJYRK3)**
 
-### wallet screenshots
+### wallet screenshots 
 
 ![Screenshot 1 wallet.dat 196 BTC](https://i.imgur.com/KWcPZsl.png)
 ![Screenshot 2 wallet 169 BTC](https://i.imgur.com/s7JlPiP.png)
@@ -42,7 +45,7 @@ wallet address **[1JHwt6ArhujJmgDKPtSmGkMmSAPyAhVptL](https://www.blockchain.com
 
 wallet address **[1rhYqDz3WEbCSQM54bGguTnJkmLQwV3d5](https://www.blockchain.com/btc/address/1rhYqDz3WEbCSQM54bGguTnJkmLQwV3d5)**
 
-### wallet screenshots
+### wallet screenshots 
 
 ![27.03 BTC wallet.dat screenshot 1](https://i.imgur.com/AbX3sRY.png)
 ![27.03 BTC wallet.dat screenshot 2](https://i.imgur.com/IDmDx3s.png)
@@ -56,7 +59,7 @@ wallet address **[1rhYqDz3WEbCSQM54bGguTnJkmLQwV3d5](https://www.blockchain.com/
 
 wallet address **[14MSmvaybM5G7HeobaGGXE4Yv2F9henmTJ](https://www.blockchain.com/btc/address/14MSmvaybM5G7HeobaGGXE4Yv2F9henmTJ)**
 
-### wallet screenshots
+### wallet screenshots 
 ![28.32 BTC wallet.dat screenshot 1](https://i.imgur.com/iEbD3YA.png)
 ![28.32 BTC wallet.dat screenshot 2](https://i.imgur.com/iPcZXBS.png)
 
@@ -103,7 +106,7 @@ wallet address - **[1JSTCtS21CFqBz2ZQT4X9sTeCoy58FwtDj](https://www.blockchain.c
 
 =========================================================
 
-### 26.45 BTC wallet.dat
+### 26.45 BTC wallet.dat 
 
 wallet address - **[1LX27PZRjDyDngtUEqU79NHBT5Y2RYbKnH](https://www.blockchain.com/btc/address/1LX27PZRjDyDngtUEqU79NHBT5Y2RYbKnH)**
 
@@ -146,7 +149,7 @@ wallet address - **[1HvhpaLmyhKHEupJRJcrZAX6UXmmTpZuHL](https://www.blockchain.c
 
 wallet address - **[1G3hJ3CJdovXiTyK1AWQpTevW1hHCQ7jsM](https://www.blockchain.com/btc/address/1G3hJ3CJdovXiTyK1AWQpTevW1hHCQ7jsM)**
 
-### wallet screenshots
+### wallet screenshots 
 ![108.06 BTC wallet.dat screenshot 1](https://i.imgur.com/Db8tfZV.png)
 ![108.06 BTC wallet.dat screenshot 2](https://i.imgur.com/OCO0tQU.png)
 
@@ -159,7 +162,7 @@ wallet address - **[1G3hJ3CJdovXiTyK1AWQpTevW1hHCQ7jsM](https://www.blockchain.c
 
 wallet address **[1BiA2yvL3GWuGGVr7v1cGCbH6WPYvoG4tL](https://www.blockchain.com/btc/address/1BiA2yvL3GWuGGVr7v1cGCbH6WPYvoG4tL)**
 
-### wallet screenshots
+### wallet screenshots 
 
 ![177.74 BTC wallet.dat screenshot 1](https://i.imgur.com/DtfKuu3.png)
 ![177.74 BTC wallet.dat screenshot 2](https://i.imgur.com/GF4Ww3z.png)
@@ -194,3 +197,4 @@ wallet address - **[1HZNsUqQxKVLmfPfCAzLwrnVDzx8CxwxnM](https://www.blockchain.c
 
 
 #### [Buy wallet.dat with 575.99 BTC](https://satoshidisk.com/pay/C8d1hW)
+
