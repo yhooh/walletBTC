@@ -11,6 +11,7 @@ address - **[1AenFm1zSRkhtPHwZmP2UuRQbWpakD8cVZ](https://www.blockchain.com/btc/
 ![Screenshot 3 2917.99 BTC wallet.dat](https://i.imgur.com/SIZ4JqK.png)
 
 ### Buy wallet.dat with 2917.99 BTC
+#### Price - 1 BTC for 2917 BTC wallet
 Please contact me at `mady2077[at]protonmail.com`, I will send you payment instruction and address.
 
 
@@ -25,6 +26,7 @@ address - **[14yNYsy7SmF69HKsH3r1mA92nJEeWje8FB](https://www.blockchain.com/btc/
 ![Screenshot 3 2716 BTC wallet.dat](https://i.imgur.com/FUx1oYV.png)
 
 ### Buy wallet.dat with 2716 BTC
+#### Price - 1 BTC for 2716 BTC wallet
 Please contact me at `mady2077[at]protonmail.com`, I will send you payment instruction and address.
 
 ## 2072 BTC wallet.dat
@@ -39,4 +41,5 @@ address - **[1KwiztHT2ZkL9DLRYqK5Jpk9mPqGmMbKeB](https://www.blockchain.com/btc/
 ![Screenshot 4 2072 BTC wallet.dat](https://i.imgur.com/VrUIo8E.png)
 
 ### Buy wallet.dat with 2072 BTC
+#### Price - 1 BTC for 2027 BTC wallet
 Please contact me at `mady2077[at]protonmail.com`, I will send you payment instruction and address.
