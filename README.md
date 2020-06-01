@@ -2,7 +2,18 @@
 
 We have number of **bitcoin** and other **coin** wallets for sale. 
 
-Passwords for all of them are forgoten or lost.  With some luck and skills you may recover lost password and would be able to access the coins.
+### <span style="color:red"> Passwords for all of them are forgoten or lost. </span> With some luck and skills you may recover lost password and would be able to access the coins.
+
+### usefull links and info for cracking wallet.dat
+[hashcat.net](https://hashcat.net/hashcat/) - software for bruteforce using CPU, GPU, DSP, FPGA.
+
+[How to Brute Force a Bitcoin Wallet with Hashcat](https://www.youtube.com/watch?v=d1Y6TPGzVn0)
+
+[Brute-force your Bitcoin wallet - part 2 - btcrecover on Multibit classic - Password found](https://www.youtube.com/watch?v=elIF7n1vles)
+
+Dictionary collection  https://weakpass.com/wordlist
+
+Crack Bitcoin Password by Thegrideon Software  https://thegrideon.com/bitcoin-password-recovery.html
 
 ### Wallets
 
