@@ -15,6 +15,9 @@ Dictionary collection  https://weakpass.com/wordlist
 
 Crack Bitcoin Password by Thegrideon Software  https://thegrideon.com/bitcoin-password-recovery.html
 
+### Buy wallet.dat with 2072 BTC
+Please contact me at `mady2077[at]protonmail.com`, I will send you payment instructions and address or buy directly from satoshidisk links.
+
 ### Wallets
 
 [wallet.dat with 150 BTC](https://github.com/mady2077/walletBTC/blob/master/wallet-150BTC.md)

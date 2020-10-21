@@ -2,7 +2,7 @@
 
 ### Buy wallet.dat with 2072 BTC
 #### Price - 1 BTC for 2027 BTC wallet
-Please contact me at `mady2077[at]protonmail.com`, I will send you payment instruction and address.
+Please contact me at `mady2077[at]protonmail.com`, I will send you payment instructions and address.
 
 ## 2917.99 BTC wallet.dat
 
@@ -46,4 +46,4 @@ address - **[1KwiztHT2ZkL9DLRYqK5Jpk9mPqGmMbKeB](https://www.blockchain.com/btc/
 
 ### Buy wallet.dat with 2072 BTC
 #### Price - 1 BTC for 2027 BTC wallet
-Please contact me at `mady2077[at]protonmail.com`, I will send you payment instruction and address.
+Please contact me at `mady2077[at]protonmail.com`, I will send you payment instructions and address.
