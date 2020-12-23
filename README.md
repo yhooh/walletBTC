@@ -23,7 +23,7 @@ Please contact me at `mady2077[at]protonmail.com`, I will send you payment instr
 [wallet.dat with 150 BTC](https://github.com/mady2077/walletBTC/blob/master/wallet-150BTC.md)
 
 # <span style="color:red"> Huge wallets with 2000 and more Bitcoins </span>
-[Wallets with 2000+ coins](2kwallets.md)
+## [Wallets with 2000+ coins](2kwallets.md)
 
 
 =======================================================
