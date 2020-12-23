@@ -11,7 +11,7 @@ We have number of **bitcoin** and other **coin** wallets for sale.
 
 [Brute-force your Bitcoin wallet - part 2 - btcrecover on Multibit classic - Password found](https://www.youtube.com/watch?v=elIF7n1vles)
 
-Dictionary collection  https://weakpass.com/wordlist
+Dictionary collection for wordlist attack - (https://weakpass.com/wordlist)
 
 Crack Bitcoin Password by Thegrideon Software  https://thegrideon.com/bitcoin-password-recovery.html
 
