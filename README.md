@@ -28,43 +28,11 @@ Please contact me at `mady2077[at]protonmail.com`, I will send you payment instr
 
 =======================================================
 
-## 169BTC wallet.dat
+[169 BTC wallet.dat](https://github.com/mady2077/walletBTC/blob/master/169BTC_wallet.dat.md)
 
-address - **[1GthMXgwcHByL4ZNXVJn92ax6LN5RJYRK3](https://www.blockchain.com/btc/address/1GthMXgwcHByL4ZNXVJn92ax6LN5RJYRK3)**
+[22.85 BTC wallet.dat](https://github.com/mady2077/walletBTC/blob/master/22.85BTC_wallet.dat.md)
 
-### wallet screenshots 
-
-![Screenshot 1 wallet.dat 196 BTC](https://i.imgur.com/KWcPZsl.png)
-![Screenshot 2 wallet 169 BTC](https://i.imgur.com/s7JlPiP.png)
-
-#### [Buy wallet.dat with 169 BTC](https://satoshidisk.com/pay/C8j6Sr)
-
-
-=======================================================
-
-## 22.85 BTC wallet.dat
-
-wallet address **[1JHwt6ArhujJmgDKPtSmGkMmSAPyAhVptL](https://www.blockchain.com/btc/address/1JHwt6ArhujJmgDKPtSmGkMmSAPyAhVptL)**
-
-### wallet screenshots
-
-![22.85 BTC wallet.dat screen 1](https://i.imgur.com/rtuYOii.png)
-![22.85 BTC wallet.dat screen 2](https://i.imgur.com/89D1g3e.png)
-
-#### [Buy wallet.dat with 22.85 BTC](https://satoshidisk.com/pay/C8dDrj)
-
-========================================================
-
-### 27.03 BTC wallet.dat
-
-wallet address **[1rhYqDz3WEbCSQM54bGguTnJkmLQwV3d5](https://www.blockchain.com/btc/address/1rhYqDz3WEbCSQM54bGguTnJkmLQwV3d5)**
-
-### wallet screenshots 
-
-![27.03 BTC wallet.dat screenshot 1](https://i.imgur.com/AbX3sRY.png)
-![27.03 BTC wallet.dat screenshot 2](https://i.imgur.com/IDmDx3s.png)
-
-#### [Buy wallet.dat with 27.03 BTC](https://satoshidisk.com/pay/C8dDuQ)
+[27.03 BTC wallet.dat](https://github.com/mady2077/walletBTC/blob/master/27.03BTC_wallet.dat.md)
 
 
 =========================================================
