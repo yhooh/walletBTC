@@ -28,11 +28,11 @@ Please contact me at `mady2077[at]protonmail.com`, I will send you payment instr
 
 =======================================================
 
-[169 BTC wallet.dat](https://github.com/mady2077/walletBTC/blob/master/169BTC_wallet.dat.md)
+[169 BTC wallet.dat](169BTC_wallet.dat.md)
 
-[22.85 BTC wallet.dat](https://github.com/mady2077/walletBTC/blob/master/22.85BTC_wallet.dat.md)
+[22.85 BTC wallet.dat](22.85BTC_wallet.dat.md)
 
-[27.03 BTC wallet.dat](https://github.com/mady2077/walletBTC/blob/master/27.03BTC_wallet.dat.md)
+[27.03 BTC wallet.dat](27.03BTC_wallet.dat.md)
 
 
 =========================================================
