@@ -18,9 +18,8 @@ Crack Bitcoin Password by Thegrideon Software  https://thegrideon.com/bitcoin-pa
 ### Buy wallet.dat with 2072 BTC
 Please contact me at `mady2077[at]protonmail.com`, I will send you payment instructions and address or buy directly from satoshidisk links.
 
-### Wallets
+# Wallets with Bitcoin balance
 
-[wallet.dat with 150 BTC](wallet-150BTC.md)
 
 # <span style="color:red"> Huge wallets with 2000 and more Bitcoins </span>
 ## [Wallets with 2000+ coins](2kwallets.md)
@@ -28,6 +27,26 @@ Please contact me at `mady2077[at]protonmail.com`, I will send you payment instr
 
 =======================================================
 
+
+# New wallets with password information: 
+[14.35 BTC wallet.dat - 1AYyMBbxXv9E29qJoTpbd6ocje81ZAJQsF](1AYyMBbxXv9E29qJoTpbd6ocje81ZAJQsF.md)
+
+[10.08 BTC wallet.dat - 1EQjwXjyom9T35764huyriFEredLGmneVC](1EQjwXjyom9T35764huyriFEredLGmneVC.md)
+
+[18.72 BTC wallet.dat - 1LSmeqqYoyGAxUwLxmkvuDU6LGM2FGf6AS](1LSmeqqYoyGAxUwLxmkvuDU6LGM2FGf6AS.md)
+
+[10.83 BTC wallet.dat - 1MB28otoAQFpP9ywiA8CbYVSKHpSTBH1z6](1MB28otoAQFpP9ywiA8CbYVSKHpSTBH1z6.md)
+
+[42.24 BTC wallet.dat - 1NKmf6GszBQ6wo349LUT4Je1csNyDDpb5Y](1NKmf6GszBQ6wo349LUT4Je1csNyDDpb5Y.md)
+
+[36.83 BTC wallet.dat - 1NuNHWG4Ujs9wjH9wciVEoJCsgXmn6PfX9](1NuNHWG4Ujs9wjH9wciVEoJCsgXmn6PfX9.md)
+
+[22.85 BTC wallet.dat - 19Hj5Pzi4hCj12porw97i183XYTrScbtXS](19Hj5Pzi4hCj12porw97i183XYTrScbtXS.md)
+
+[12.82 BTC wallet.dat - 19tLSCZWhX5YBVy6uX2kLheNjdUb9RBojS](19tLSCZWhX5YBVy6uX2kLheNjdUb9RBojS.md)
+
+Other wallets
+===========================================================
 
 [5 BTC wallet.dat](5BTC_wallet.dat.md)
 
