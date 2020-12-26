@@ -16,10 +16,8 @@ Information about password:
 
 
 ### wallet screenshots
-![12.82 BTC wallet.dat screenshot 1]()
-![12.82 BTC wallet.dat screenshot 2]()
-![12.82 BTC wallet.dat screenshot 3]()
+![12.82 BTC wallet.dat screenshot 1](https://i.imgur.com/jnWO8Ap.png)
+![12.82 BTC wallet.dat screenshot 2](https://i.imgur.com/muo7I87.png)
+![12.82 BTC wallet.dat screenshot 3](https://i.imgur.com/3Mga7AL.png)
 
-## [Buy wallet.dat with 12.82 BTC](https://satoshidisk.com/pay/CBJad1)
-
-[12.82 BTC wallet.dat - 19tLSCZWhX5YBVy6uX2kLheNjdUb9RBojS](19tLSCZWhX5YBVy6uX2kLheNjdUb9RBojS.md
+## [Buy wallet.dat with 12.82 BTC](https://satoshidisk.com/pay/CBJad1
