@@ -1,6 +1,6 @@
 ### Wallets with 2000+ Bitcoins
 
-## [Go back to list of all wallets for sale ]https://mady2077.github.io/walletBTC/)
+## [Go back to list of all wallets for sale](https://mady2077.github.io/walletBTC/)
 
 ### Buy wallet.dat with 2072 BTC
 #### Price - 1 BTC for 2027 BTC wallet

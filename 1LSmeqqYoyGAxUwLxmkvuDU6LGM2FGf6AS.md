@@ -1,6 +1,6 @@
 # 18.72 BTC wallet.dat
 
-## [Go back to list of all wallets for sale ]https://mady2077.github.io/walletBTC/)
+## [Go back to list of all wallets for sale](https://mady2077.github.io/walletBTC/)
 
 wallet address - **[1LSmeqqYoyGAxUwLxmkvuDU6LGM2FGf6AS](https://www.blockchain.com/btc/address/1LSmeqqYoyGAxUwLxmkvuDU6LGM2FGf6AS)**
 
