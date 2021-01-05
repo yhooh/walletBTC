@@ -9,9 +9,10 @@ wallet address - **[1LSmeqqYoyGAxUwLxmkvuDU6LGM2FGf6AS](https://www.blockchain.c
 ## Hints:
 Information about password: 
 ```
-* password is in English 
-* password is 8 characters long
+* password is in English, US keyboard layout
+* english password length is 8 characters
 * password ends with digits 88
+* total password length is 10 characters long
 ```
 
 
