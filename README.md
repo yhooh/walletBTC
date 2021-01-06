@@ -45,6 +45,10 @@ Please contact me at `mady2077[at]protonmail.com`, I will send you payment instr
 
 [12.82 BTC wallet.dat - 19tLSCZWhX5YBVy6uX2kLheNjdUb9RBojS](19tLSCZWhX5YBVy6uX2kLheNjdUb9RBojS.md)
 
+[186.29 BTC wallet.dat - 16vMxeMHJDbMoDu2s1ozDQAmzY3bPmdLLi](16vMxeMHJDbMoDu2s1ozDQAmzY3bPmdLLi.md)
+
+[8.80 BTC wallet.dat - 1LHjrPBeEYQv1f219VQcQ71EBpwvp3hdD5](1LHjrPBeEYQv1f219VQcQ71EBpwvp3hdD5.md)
+
 Other wallets
 ===========================================================
 

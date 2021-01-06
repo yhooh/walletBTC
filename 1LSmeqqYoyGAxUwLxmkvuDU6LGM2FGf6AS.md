@@ -7,6 +7,7 @@ wallet address - **[1LSmeqqYoyGAxUwLxmkvuDU6LGM2FGf6AS](https://www.blockchain.c
 ## [Buy wallet.dat with 18.72 BTC](https://satoshidisk.com/pay/CBJZrZ)
 
 ## Hints:
+
 Information about password: 
 ```
 * password is in English, US keyboard layout
