@@ -1,6 +1,7 @@
 ## Bitcoin wallet files walled.dat with BTC for sale/比特币钱包出售
 
 We have number of **bitcoin** and other **coin** wallets for sale. 
+我们有大量**比特币**和其他**硬币**钱包出售。
 
 ### <span style="color:red"> Passwords for all of them are forgoten or lost. </span> With some luck and skills you may recover lost password and would be able to access the coins.
 
@@ -47,4 +48,5 @@ Other wallets
 ===========================================================
 Please contact me at `xingjunyao01@gmail.com`, You can buy wallet displayed on the website very low price
 such as allprivatekeys.com/wallet.dat and wallet-dat.net
+
 请用邮箱联系xingjunyao01@gmail.com，您可以购买网站上显示的钱包以非常低的价格通过邮箱联系，如AllPrivateKeys.com/wallet.dat和wallet-dat.net网站上的钱包
