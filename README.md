@@ -20,13 +20,7 @@ Please contact me at `xingjunyao01@gmail.com`, I will send you payment instructi
 
 # Wallets with Bitcoin balance
 
-
-# <span style="color:red"> Huge wallets with 2000 and more Bitcoins </span>
-## [Wallets with 2000+ coins](2kwallets.md)
-
-
 =======================================================
-
 
 # New wallets with password information: 
 [14.35 BTC wallet.dat - 1AYyMBbxXv9E29qJoTpbd6ocje81ZAJQsF](1AYyMBbxXv9E29qJoTpbd6ocje81ZAJQsF.md)
@@ -47,7 +41,7 @@ Please contact me at `xingjunyao01@gmail.com`, I will send you payment instructi
 
 [186.29 BTC wallet.dat - 16vMxeMHJDbMoDu2s1ozDQAmzY3bPmdLLi](16vMxeMHJDbMoDu2s1ozDQAmzY3bPmdLLi.md)
 
-[261 btc multibit wallet](261 btc multibit wallet.md)
+[261 btc multibit wallet]
 
 Other wallets
 ===========================================================
