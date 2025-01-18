@@ -1,4 +1,4 @@
-## Bitcoin wallet files walled.dat with BTC for sale
+## Bitcoin wallet files walled.dat with BTC for sale/比特币钱包出售
 
 We have number of **bitcoin** and other **coin** wallets for sale. 
 
@@ -45,32 +45,6 @@ Please contact me at `xingjunyao01@gmail.com`, I will send you payment instructi
 
 Other wallets
 ===========================================================
-
-[5 BTC wallet.dat](5BTC_wallet.dat.md)
-
-[22.85 BTC wallet.dat](22.85BTC_wallet.dat.md)
-
-[25.99 BTC wallet.dat](25.99BTC_wallet.dat.md)
-
-[26.45 BTC wallet.dat](26.45BTC_wallet.dat.md)
-
-[27.03 BTC wallet.dat](27.03BTC_wallet.dat.md)
-
-[28.32 BTC wallet.dat](28.32BTC_wallet.dat.md)
-
-[28.33 BTC wallet.dat](28.33BTC_wallet.dat.md)
-
-[31.01 BTC wallet.dat](31.01BTC_wallet.dat.md)
-
-[31.48 BTC wallet.dat](31.48BTC_wallet.dat.md)
-
-[107.50 BTC wallet.dat](107.50BTC_wallet.dat.md)
-
-[108.06 BTC wallet.dat](108.06BTC_wallet.dat.md)
-
-[169 BTC wallet.dat](169BTC_wallet.dat.md)
-
-[177.74 BTC wallet.dat](177.74BTC_wallet.dat.md)
-
-[575.99 BTC wallet.dat](575.99BTC_wallet.dat.md)
-
+Please contact me at `xingjunyao01@gmail.com`, You can buy wallet displayed on the website very low price
+such as allprivatekeys.com/wallet.dat and wallet-dat.net
+请用邮箱联系xingjunyao01@gmail.com，您可以购买网站上显示的钱包以非常低的价格通过邮箱联系，如AllPrivateKeys.com/wallet.dat和wallet-dat.net网站上的钱包
