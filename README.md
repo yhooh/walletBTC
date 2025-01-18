@@ -47,7 +47,7 @@ Please contact me at `xingjunyao01@gmail.com`, I will send you payment instructi
 
 [186.29 BTC wallet.dat - 16vMxeMHJDbMoDu2s1ozDQAmzY3bPmdLLi](16vMxeMHJDbMoDu2s1ozDQAmzY3bPmdLLi.md)
 
-[8.80 BTC wallet.dat - 1LHjrPBeEYQv1f219VQcQ71EBpwvp3hdD5](1LHjrPBeEYQv1f219VQcQ71EBpwvp3hdD5.md)
+[261 btc multibit wallet](261 btc multibit wallet.md)
 
 Other wallets
 ===========================================================
