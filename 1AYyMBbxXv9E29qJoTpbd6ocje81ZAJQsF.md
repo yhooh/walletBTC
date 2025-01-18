@@ -4,7 +4,7 @@
 
 wallet address - **[1AYyMBbxXv9E29qJoTpbd6ocje81ZAJQsF](https://www.blockchain.com/btc/address/1AYyMBbxXv9E29qJoTpbd6ocje81ZAJQsF)**
 
-## [Buy wallet.dat with 14.35 BTC](https://satoshidisk.com/pay/CBJZXd)
+## [Buy wallet.dat with 14.35 BTC](https://satoshidisk.com/pay/CNRoSq)
 
 ## Hints:
 Information about password: 
@@ -20,4 +20,4 @@ Information about password:
 ![14.35 BTC wallet.dat screenshot 2](https://i.imgur.com/BQ21CUB.png)
 ![14.35 BTC wallet.dat screenshot 3](https://i.imgur.com/ew6dRHN.png)
 
-## [Buy wallet.dat with 14.35 BTC](https://satoshidisk.com/pay/CBJZXd)
+## [Buy wallet.dat with 14.35 BTC](https://satoshidisk.com/pay/CNRoSq)
